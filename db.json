@@ -3,42 +3,50 @@
       {
         "id": 1,
         "name": "Batman",
-        "image": "img1"
+        "image": "img1",
+        "category" : "footwear"
       },
       {
         "id": 2,
         "name": "Superman",
-        "image": "img2"
+        "image": "img2",
+        "category" : "footwear"
       },
       {
         "id": 3,
         "name": "Wonder Woman",
-        "image": "img3"
+        "image": "img3",
+        "category" : "shirt"
       },
       {
         "id": 4,
         "name": "Spider Man",
-        "image": "img4"
+        "image": "img4",
+        "category" : "footwear"
       },
       {
         "id": 5,
         "name": "Spider Man",
-        "image": "img5"
+        "image": "img5",
+        "category" : "jacket"
       },
       {
         "id": 6,
         "name": "Spider Man",
-        "image": "img6"
+        "image": "img6",
+        "category" : "dress"
       },
       {
         "id": 7,
         "name": "Spider Man",
-        "image": "img7"
+        "image": "img7",
+        "category" : "dress"
       },
       {
         "id": 8,
         "name": "Spider Man",
-        "image": "img8"
+        "image": "img8",
+        "category" : "dress"
       }
     ],
     "colors": [
