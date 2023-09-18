@@ -52,13 +52,16 @@
       {
         "id": "SKU-OR1",
         "name": "mono cat 2.0 sunglasses in crystal",
-        "category" : "other"
+        "category" : "other",
+        "optionstype" : "color",
+        "options" : ["white", "black", "red"]
       },
       {
         "id": "SKU-OR2",
-        "name": "double holes belt in black",
+        "name": "double holes belt",
         "category" : "other",
-        "optionstype" : "size"
+        "optionstype" : "color",
+        "options" : ["white", "black"]
       }
     ]
   }
